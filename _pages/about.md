@@ -28,25 +28,16 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'>
-    <div class='paper-box-text' markdown="1">
-        Defending Byzantine Attacks in Ensemble Federated Learning: A Reputation-based Phishing Approach
-    </div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Defending Byzantine Attacks in Ensemble Federated Learning: A Reputation-based Phishing Approach](https://github.com), 1st student author, **IEEE FGCS**
+- [FLPhish: Reputation-based Phishing Byzantine Defense in Ensemble Federated Learning](https://github.com), 1st student author, **IEEE ISCC**
+- [FedVANET: Efficient Federated Learning with Non-IID Data for Vehicular Ad Hoc Networks](https://github.com), **IEEE GlobeCom**
+- [MineDetector: JavaScript Browser-side Cryptomining Detection using Static Method](https://github.com), 1st student author, **IEEE CSE**
+- [TANGRAM: Automating Execution Planning for Distributed Deep Neural Network](https://github.com), 1st author, **In submission**
+- [Version-Diff Guided Fuzzing for Distributed System Upgrade](https://github.com), **In submission**
+- [DimT-SL: Mitigating Label Leakage in Two-Party Split Learning](https://github.com), 1st author, **In submission**
+- [FedCliP: Communication Efficient Federated Learning with Client Pruning](https://github.com), **In submission**
+- [EVS: An Efficient Vantage Point Selection Algorithm for Router Geolocation](https://github.com), **In submission**
+- [FedChain: A Secure Proof of Federated Learning Consensus Protocol for Blockchain](https://github.com), 1st author, **In submission**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
