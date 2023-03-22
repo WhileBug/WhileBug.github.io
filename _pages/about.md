@@ -40,8 +40,11 @@ My research interest includes neural machine translation and computer vision. I 
 - [FedChain: A Secure Proof of Federated Learning Consensus Protocol for Blockchain](https://github.com), 1st author, **In submission**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.06* Microsoft Research Asia Star of Tomorrow Award 
+- *2022.06* Outstanding Undergraduate Graduates 
+- *2019.08* National Scholarship (for top 0.2\% students in China)
+- *2019.08* Sichuan University \textbf{First Class} Scholarship 
+- *2021.09* 26th IEEE Symposium on Computers and Communications (ISCC 2021) \textbf{Best Paper Award}
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
