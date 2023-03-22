@@ -23,7 +23,7 @@ My research interest includes distributed system, blockchain, AI security/privac
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2023.03*: &nbsp;🎉🎉 Looking for research internship in blockchain.
 
 # 📝 Publications 
 
