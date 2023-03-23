@@ -64,3 +64,11 @@ My research interest includes distributed system, blockchain, AI security/privac
 - *2021.09 - 2022.06*, Microsoft Research Asia, [System Research Group](https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/), China.
 - *2020.09 - 2022.06*, Sichuan University, [Prof.Beibei Li](https://li-beibei.github.io/), China.
 - *2020.05 - 2020.11*, Sichuan University, [Prof. Cheng Huang](https://chenghuang.org/), China.
+
+# 📰 Academic Services
+- *Reviewer*, IEEE TIFS
+- *External Reviewer*, IEEE KSEM, ICC
+
+# 💃🏻 Friends
+- *Yiwei Hou*, https://m1llie.tech/
+- *Yuzhou Fang*, https://about.chares.me/
