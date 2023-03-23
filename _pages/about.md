@@ -66,9 +66,11 @@ My research interest includes distributed system, blockchain, AI security/privac
 - *2020.05 - 2020.11*, Sichuan University, [Prof. Cheng Huang](https://chenghuang.org/), China.
 
 # 📰 Academic Services
-- *Reviewer*, IEEE TIFS
-- *External Reviewer*, IEEE KSEM, ICC
+- *Reviewer*: IEEE TIFS
+- *External Reviewer*: IEEE KSEM, IEEE ICC, AAAI
 
 # 💃🏻 Friends
 - *Yiwei Hou*, https://m1llie.tech/
 - *Yuzhou Fang*, https://about.chares.me/
+- *Minghao Chen*, https://minhal.me/
+- *Ruiming Guo*, https://guoruiming.com/
