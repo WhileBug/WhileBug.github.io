@@ -17,13 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Peiran Wang (WhileBug) in Tsinghua University as a master student in cybersecurity. I got my bachelor from Sichuan University.
+I'm Peiran Wang a student who is interested and serve as 'oxen and horse'('牛马',🤪) in Blockchain/System/Networking/PLSE. I am pursuing master degree in cybersecurity in Tsinghua University. I graduated from Sichuan University in Cybersecurity Talented Class in 2022. During my undergraduate, I got National Scholarship, and got GPA of 3.92. 
+
+I organize SCU-Leap-Manual(https://scu-cs-runner.github.io/SurviveSCUManual/) for CS/SE/Cybersecurity students in SCU, if you want to join us, please drop me an email😁.
 
 My research interest includes distributed system, blockchain, AI security/privacy, PLSE.
 
 
 # 🔥 News
-- *2023.03*: &nbsp;🎉🎉 Looking for research or finance internship in blockchain.
+- *2023.03*: &nbsp;🎉🎉 Looking for research or finance internship in blockchain, if you are interested in working with me, please drop me an email.
 
 # 📝 Publications 
 
@@ -39,15 +41,16 @@ My research interest includes distributed system, blockchain, AI security/privac
 - [FedChain: A Secure Proof of Federated Learning Consensus Protocol for Blockchain](https://github.com), 1st author, **In submission**
 
 # 🎖 Honors and Awards
-- *2022.06* Microsoft Research Asia Star of Tomorrow Award 
-- *2022.06* Outstanding Undergraduate Graduates 
-- *2019.08* National Scholarship (for top 0.2\% students in China)
-- *2019.08* Sichuan University First Class Scholarship 
-- *2021.09* 26th IEEE Symposium on Computers and Communications (ISCC 2021) Best Paper Award
+- *2022.08* Outstanding Undergraduate Thesis @SCU
+- *2022.06* Microsoft Research Asia Star of Tomorrow Award @MSRA
+- *2022.06* Outstanding Undergraduate Graduates @SCU
+- *2019.08* National Scholarship (for top 0.2% students in China) @National Ministry of Education 
+- *2019.08* Sichuan University First Class Scholarship  @SCU
+- *2021.09* 26th IEEE Symposium on Computers and Communications (ISCC 2021) Best Paper Award @IEEE ISCC
 
 # 📖 Educations
 - *2022.09 - 2025.04 (now)*, Tsinghua University, Institute of Network Sciences and Cyberspace. 
-- *2018.09 - 2022.06*, Sichuan University, Cybersecurity College, Cybersecurity Excellence Class, Excellent Undergraduate, Excellent Undergraduate Thesis. 
+- *2018.09 - 2022.06*, Sichuan University, Cybersecurity College, cybersecurity excellence class(1/18), excellent undergraduate, excellent undergraduate thesis. 
 
 # 💬 Invited Talks
 
