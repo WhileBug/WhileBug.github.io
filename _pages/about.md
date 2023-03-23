@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Peiran Wang a student who is interested and serve as 'oxen and horse'('牛马',🤪) in Blockchain/System/Networking/PLSE. I am pursuing master degree in cybersecurity in Tsinghua University. I graduated from Sichuan University in Cybersecurity Talented Class in 2022. During my undergraduate, I got National Scholarship, and got GPA of 3.92. 
+I'm WhileBug(Peiran Wang, 王沛然), a student who is interested and serve as 'oxen and horse'('牛马',🤪) in Blockchain/System/Networking/PLSE. I am pursuing master degree in cybersecurity in Tsinghua University. I graduated from Sichuan University in Cybersecurity Talented Class in 2022. During my undergraduate, I got National Scholarship, and got GPA of 3.92. 
 
 I organize [SCU-Leap-Manual](https://scu-cs-runner.github.io/SurviveSCUManual/) for CS/SE/Cybersecurity students in SCU, if you want to join us, please drop me an email😁.
 
