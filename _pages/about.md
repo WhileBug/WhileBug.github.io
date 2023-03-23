@@ -25,8 +25,12 @@ My research interest includes distributed system, blockchain, AI security/privac
 
 
 # 🔥 News
-- *2023.03*: &nbsp;🎉🎉 Looking for research or finance internship in blockchain during 2023 summer, if you are interested in working with me, please drop me an email.
-- *2023.03*: &nbsp;🎉🎉 Welcome to my [new homepage](https://whilebug.github.io)
+- *2023.03*: 🎉🎉 Look for finance/tech internship in blockchain/system at company during 2023 summer, if you are interested in working with me, please drop me an email.
+- *2023.03*: 🎉🎉 Welcome to my [new homepage](https://whilebug.github.io)!
+- *2022.09*: 🎉🎉 Start to pursue a master degree in Tsinghua University!
+- *2022.06*: 🎉🎉 Graduate from Sichuan University with excellent graduate honor and excellent graduate thesis!
+- *2022.06*: 🎉🎉 Finish research internship in MSRA with MSRA Star of Tomorrow Award!
+- *2022.09*: 🎉🎉 Start research internship in MSRA.
 
 # 📖 Educations
 - *2022.09 - 2025.04 (now)*, Tsinghua University, Institute of Network Sciences and Cyberspace. 
