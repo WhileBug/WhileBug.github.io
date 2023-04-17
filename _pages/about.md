@@ -54,7 +54,6 @@ My research interest includes distributed system, blockchain, AI security/privac
 - [FedVANET: Efficient Federated Learning with Non-IID Data for Vehicular Ad Hoc Networks](https://github.com), **IEEE GlobeCom**
 - [MineDetector: JavaScript Browser-side Cryptomining Detection using Static Method](https://github.com), 1st student author, **IEEE CSE**
 - [TANGRAM: Automating Execution Planning for Distributed Deep Neural Network](https://github.com), 1st author, **In submission**
-- [Version-Diff Guided Fuzzing for Distributed System Upgrade](https://github.com), **In submission**
 - [DimT-SL: Mitigating Label Leakage in Two-Party Split Learning](https://github.com), 1st author, **In submission**
 - [FedCliP: Communication Efficient Federated Learning with Client Pruning](https://github.com), **In submission**
 - [EVS: An Efficient Vantage Point Selection Algorithm for Router Geolocation](https://github.com), **In submission**
