@@ -39,7 +39,6 @@ My research interest includes distributed system, blockchain, AI security/privac
 
 
 # 💻 Experiences
-- *2023.04(Expected) - Now*, University of California, San Diego, [Prof.Haojian Jin](http://haojianj.in/), U.S.
 - *2022.06 - Now*, John Hopkins University, [Prof.Yinzhi Cao](https://yinzhicao.org/), U.S.
 - *2022.09 - 2023.04*, Tsinghua University, Internet Measurement Group, China.
 - *2022.08 - 2023.03*, Purdue University, [Prof.Yongle Zhang](https://yonglezh-purdue.github.io/), U.S.
