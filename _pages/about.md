@@ -80,3 +80,4 @@ My research interest includes distributed system, blockchain, AI security/privac
 - [*Siyan Xue*](https://xuesyn.github.io/)
 - [*Chenguo Lin*](https://chenguolin.github.io/)
 - [*Ruiming Guo*](https://guoruiming.com/)
+- [*Junyu Zhou*](blog.junyu33.me)
