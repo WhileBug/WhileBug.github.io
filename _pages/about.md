@@ -73,7 +73,10 @@ My research interest includes distributed system, blockchain, AI security/privac
 - *External Reviewer*: IEEE KSEM, IEEE ICC, AAAI
 
 # 💃🏻 Friends
-- *Yiwei Hou*, https://m1llie.tech/
-- *Yuzhou Fang*, https://about.chares.me/
-- *Minghao Chen*, https://minhal.me/
-- *Ruiming Guo*, https://guoruiming.com/
+- [*Yukun Jiang*](https://ashbringer0926.github.io/)
+- [*Yiwei Hou*](https://m1llie.tech/)
+- [*Yuzhou Fang*](https://about.chares.me/)
+- [*Minghao Chen*](https://minhal.me/)
+- [*Siyan Xue*](https://xuesyn.github.io/)
+- [*Chenguo Lin*](https://chenguolin.github.io/)
+- [*Ruiming Guo*](https://guoruiming.com/)
