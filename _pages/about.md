@@ -65,6 +65,12 @@ My research interest includes distributed system, blockchain, AI security/privac
 - [TinyG: Accurate IP Geolocation Using a Tiny Number of Probers](https://github.com), **In submission**
 - [pFedRPCA: Personalized Federated Learning with Robust Principal Component Analysis](https://github.com), **In submission**
 
+## In Draft
+
+- [Privacy-Preserving Generative Adversarial Learning](https://github.com), 1st author.
+- [Defending Ethics Risks in Generative Models](https://github.com), 1st author.
+
+
 # 🎖 Honors and Awards
 - *2022.08* Outstanding Undergraduate Thesis @SCU
 - *2022.06* Microsoft Research Asia Star of Tomorrow Award @MSRA
