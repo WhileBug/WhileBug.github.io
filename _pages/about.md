@@ -69,8 +69,9 @@ My research interest includes distributed system, blockchain, AI security/privac
 
 - [Privacy-Preserving Generative Adversarial Learning](https://github.com), 1st author.
 - [Defending Ethics Risks in Generative Models](https://github.com), 1st author.
-
-
+- [Defending Model Completion Attack in Split Learning via Dimension Confusion](https://github.com), 1st author.
+- [Personalized Federated Learning via Sparse Local Training](https://github.com)
+- 
 # 🎖 Honors and Awards
 - *2022.08* Outstanding Undergraduate Thesis @SCU
 - *2022.06* Microsoft Research Asia Star of Tomorrow Award @MSRA
