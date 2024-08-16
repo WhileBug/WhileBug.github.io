@@ -39,7 +39,9 @@ My research interest includes distributed system, blockchain, AI security/privac
 
 
 # 💻 Experiences
-- *2022.06 - Now*, John Hopkins University, [Prof.Yinzhi Cao](https://yinzhicao.org/), U.S.
+- *2024.07 - Now*, ByteDance Inc., security research group, China.
+- *2024.05 - 2024.07*, Baidu Inc., ACG summer camp, China.
+- *2022.06 - 2023.03*, John Hopkins University, [Prof.Yinzhi Cao](https://yinzhicao.org/), U.S.
 - *2022.09 - 2023.04*, Tsinghua University, Internet Measurement Group, China.
 - *2022.08 - 2023.03*, Purdue University, [Prof.Yongle Zhang](https://yonglezh-purdue.github.io/), U.S.
 - *2021.09 - 2022.06*, Microsoft Research Asia, [System Research Group](https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/), China.
