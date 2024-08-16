@@ -48,29 +48,30 @@ My research interest includes distributed system, blockchain, AI security/privac
 
 # 📝 Publications 
 
-## Accepted&Published
 
-- [Defending Byzantine Attacks in Ensemble Federated Learning: A Reputation-based Phishing Approach](https://github.com), 1st student author, **IEEE FGCS**
-- [FLPhish: Reputation-based Phishing Byzantine Defense in Ensemble Federated Learning](https://github.com), 1st student author, **IEEE ISCC**
-- [FedVANET: Efficient Federated Learning with Non-IID Data for Vehicular Ad Hoc Networks](https://github.com), **IEEE GlobeCom**
-- [MineDetector: JavaScript Browser-side Cryptomining Detection using Static Method](https://github.com), 1st student author, **IEEE CSE**
+- Li, Beibei, **Peiran Wang**\*, Zerui Shao, Ao Liu, Yukun Jiang, and Yizhou Li. "Defending Byzantine attacks in ensemble federated learning: A reputation-based phishing approach." Future Generation Computer Systems 147 (2023): 136-148. \textbf{第一学生作者}
+- Li, Beibei, **Peiran Wang**\*, Hanyuan Huang, Shang Ma, and Yukun Jiang. "FlPhish: Reputation-based phishing byzantine defense in ensemble federated learning." In 2021 IEEE Symposium on Computers and Communications (ISCC), pp. 1-6. IEEE, 2021. \textbf{第一学生作者}
+- Li, Beibei, Yukun Jiang, Wenbin Sun, Weina Niu, and **Peiran Wang**. "Fedvanet: Efficient federated learning with non-iid data for vehicular ad hoc networks." In 2021 IEEE Global Communications Conference (GLOBECOM), pp. 1-6. IEEE, 2021.
+- **Peiran Wang**, Yuqiang Sun, Cheng Huang, Yutong Du, Genpei Liang, and Gang Long. "Minedetector: Javascript browser-side cryptomining detection using static methods." In 2021 IEEE 24th International Conference on Computational Science and Engineering (CSE), pp. 87-93. IEEE, 2021.
+- Li, Beibei, Zerui Shao, Ao Liu, and **Peiran Wang**. "FedCliP: Federated learning with client pruning." arXiv preprint arXiv:2301.06768 (2023).
+- Jiang, Nan, Jessie Hui Wang, Jilong Wang, and **Peiran Wang**. "Top AS Router Geolocation in Databases: Performance and Techniques." In GLOBECOM 2023-2023 IEEE Global Communications Conference, pp. 2117-2122. IEEE, 2023.
+- Jiang, Nan, Jessie Hui Wang, Jilong Wang, and **Peiran Wang**. "TinyG: Accurate IP Geolocation Using a Tiny Number of Probers." In 2023 19th International Conference on Network and Service Management (CNSM), pp. 1-9. IEEE, 2023.
+- **Peiran Wang**, Qiyu Li, Longxuan Yu, Ziyao Wang, Ang Li, Haojian Jin. "Moderator: Moderating Text-to-Image Diffusion Models through Fine-grained Context-based Policies." In 31st ACM Conference on Computer and Communications Security (CCS), 2024.
+- **Peiran Wang**, Xiaogeng Liu, Chaowei Xiao, "RePD: Defending Jailbreak Attack through a Retrieval-based Prompt Decomposition Process." In 1st Conference on Language Modeling (COLM), 2024.
+- **Peiran Wang**. "FedChain: An Efficient and Secure Consensus Protocol based on Proof of Useful Federated Learning for Blockchain." arXiv preprint arXiv:2308.15095 (2023).
+- Xuechao Chen, Wenchao Meng, **Peiran Wang**, and Qihang Zhou, Distributed Boosting: An Enhancing Method on Dataset Distillation, CIKM 2024 (33rd ACM International Conference on Information and Knowledge Management).
 
-## In Submission
+## In submission
 
-- [TANGRAM: Automating Execution Planning for Distributed Deep Neural Network](https://github.com), 1st author, **In submission**
-- [DimT-SL: Mitigating Label Leakage in Two-Party Split Learning](https://github.com), 1st author, **In submission**
-- [FedCliP: Communication Efficient Federated Learning with Client Pruning](https://github.com), **In submission**
-- [FedChain: A Secure Proof of Federated Learning Consensus Protocol for Blockchain](https://github.com), 1st author, **In submission**
-- [Top AS Router Geolocation in Databases: Performance and Techniques](https://github.com), **In submission**
-- [TinyG: Accurate IP Geolocation Using a Tiny Number of Probers](https://github.com), **In submission**
-- [pFedRPCA: Personalized Federated Learning with Robust Principal Component Analysis](https://github.com), **In submission**
+- **Peiran Wang**, Xiaogeng Liu, Fangzhou Wu, Yulong Cao, Yizhe Zhang, Lichao Sun, Chaowei Xiao, "CVE-Bench: Benchmarking LLM-based Software Engineering Agent’s Ability to Repair Real-World CVE Vulnerabilities." In the 38th Conference on Neural Information Processing Systems Datasets and Benchmarks Track, 2024.
+- **Peiran Wang**, Haohan Wang, "DistDD: Distributed Data Distillation Aggregation through Gradient Matching." In the 39th Annual AAAI Conference on Artificial Intelligence, 2025.
+- Yukun Jiang, **Peiran Wang**\*, "SecDT: Mitigating Label Leakage in Two-Party Split Learning." In the 39th Annual AAAI Conference on Artificial Intelligence, 2025.
+- Zerui Shao, Beibei Li, **Peiran Wang**, Wenshan Li, Yi Zhang, "FedUFD: Uncertainty-Driven Feature Distillation for Heterogeneous Federated Learning." In ACM Multimedia 2024.
+- **Peiran Wang**, Xiaogeng Liu, Fangzhou Wu, Yizhe Zhang, Chaowei Xiao, "Trojan the Agent: Attack LLM-based Agent Code Interaction using Malicious Commands Injection." In Trustworthy Multi-modal Foundation Models and AI Agents (TiFA), 2024.
+- Zerui Shao, Beibei Li, **Peiran Wang**, Yi Zhang, Kim-Kwang Choo, FedLoRE: Communication-Efficient and Personalized Edge Intelligence Framework via Federated Low-Rank Estimation, IEEE Transactions on Parallel and Distributed Systems. 
+- Eric Xue, Yijiang Li, Haoyang Liu, **Peiran Wang**, Yifan Shen, Haohan Wang, Towards Adversarially Robust Condensed Dataset by Curvature Regularization, in the 39th Annual AAAI Conference on Artificial Intelligence, 2025.
+- Haoyang Liu, **Peiran Wang**, Tiancheng Xing, Yijiang Li, Vibhu Dalal, Luwei LI, Jingrui He, Haohan Wang, Haohan Wang, Dataset Distillation via the Wasserstein Metric, in the 39th Annual AAAI Conference on Artificial Intelligence, 2025.
 
-## In Draft
-
-- [Privacy-Preserving Generative Adversarial Learning](https://github.com), 1st author.
-- [Defending Ethics Risks in Generative Models](https://github.com), 1st author.
-- [Defending Model Completion Attack in Split Learning via Dimension Confusion](https://github.com), 1st author.
-- [Personalized Federated Learning via Sparse Local Training](https://github.com)
 
 
 # 🎖 Honors and Awards
