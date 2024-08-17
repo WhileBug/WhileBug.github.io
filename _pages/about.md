@@ -66,13 +66,13 @@ My research interest includes distributed system, blockchain, AI security/privac
 ## In submission
 
 - **Peiran Wang**, Xiaogeng Liu, Fangzhou Wu, Yulong Cao, Yizhe Zhang, Lichao Sun, Chaowei Xiao, "CVE-Bench: Benchmarking LLM-based Software Engineering Agent’s Ability to Repair Real-World CVE Vulnerabilities." In the 38th Conference on Neural Information Processing Systems Datasets and Benchmarks Track, 2024.
-- **Peiran Wang**, Haohan Wang, "DistDD: Distributed Data Distillation Aggregation through Gradient Matching." In the 39th Annual AAAI Conference on Artificial Intelligence, 2025.
-- Yukun Jiang, **Peiran Wang**\*, "SecDT: Mitigating Label Leakage in Two-Party Split Learning." In the 39th Annual AAAI Conference on Artificial Intelligence, 2025.
+- **Peiran Wang**, Haohan Wang, "DistDD: Distributed Data Distillation Aggregation through Gradient Matching." in submission to AAAI, 2025.
+- Yukun Jiang, **Peiran Wang**\*, "SecDT: Mitigating Label Leakage in Two-Party Split Learning." in submission to AAAI, 2025.
 - Zerui Shao, Beibei Li, **Peiran Wang**, Wenshan Li, Yi Zhang, "FedUFD: Uncertainty-Driven Feature Distillation for Heterogeneous Federated Learning." In ACM Multimedia 2024.
 - **Peiran Wang**, Xiaogeng Liu, Fangzhou Wu, Yizhe Zhang, Chaowei Xiao, "Trojan the Agent: Attack LLM-based Agent Code Interaction using Malicious Commands Injection." In Trustworthy Multi-modal Foundation Models and AI Agents (TiFA), 2024.
 - Zerui Shao, Beibei Li, **Peiran Wang**, Yi Zhang, Kim-Kwang Choo, FedLoRE: Communication-Efficient and Personalized Edge Intelligence Framework via Federated Low-Rank Estimation, IEEE Transactions on Parallel and Distributed Systems. 
-- Eric Xue, Yijiang Li, Haoyang Liu, **Peiran Wang**, Yifan Shen, Haohan Wang, Towards Adversarially Robust Condensed Dataset by Curvature Regularization, in the 39th Annual AAAI Conference on Artificial Intelligence, 2025.
-- Haoyang Liu, **Peiran Wang**, Tiancheng Xing, Yijiang Li, Vibhu Dalal, Luwei LI, Jingrui He, Haohan Wang, Haohan Wang, Dataset Distillation via the Wasserstein Metric, in the 39th Annual AAAI Conference on Artificial Intelligence, 2025.
+- Eric Xue, Yijiang Li, Haoyang Liu, **Peiran Wang**, Yifan Shen, Haohan Wang, Towards Adversarially Robust Condensed Dataset by Curvature Regularization, in submission to AAAI, 2025.
+- Haoyang Liu, **Peiran Wang**, Tiancheng Xing, Yijiang Li, Vibhu Dalal, Luwei LI, Jingrui He, Haohan Wang, Haohan Wang, Dataset Distillation via the Wasserstein Metric, in submission to AAAI, 2025.
 
 
 
