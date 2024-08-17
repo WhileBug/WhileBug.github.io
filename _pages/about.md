@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm WhileBug(Peiran Wang, 王沛然), a student who is interested and serve as 'oxen and horse'('牛马',🤪) in Blockchain/System/Networking/PLSE. I am pursuing master degree in cybersecurity in Tsinghua University. I graduated from Sichuan University in Cybersecurity Talented Class in 2022. During my undergraduate, I got National Scholarship, and got GPA of 3.92. 
+I'm WhileBug(Peiran Wang, 王沛然), a student who is interested in System/Networking/PLSE/LLM/Dataset Distillation. I am pursuing master degree in cybersecurity in Tsinghua University. I graduated from Sichuan University in Cybersecurity Talented Class in 2022. During my undergraduate, I got National Scholarship, and got GPA of 3.92. 
 
 I organize [SCU-Leap-Manual](https://scu-cs-runner.github.io/SurviveSCUManual/) for CS/SE/Cybersecurity students in SCU, if you want to join us, please drop me an email😁.
 
@@ -25,7 +25,7 @@ My research interest includes distributed system, blockchain, AI security/privac
 
 
 # 🔥 News
-- *2023.03*: 🎉🎉 Look for finance/tech internship in blockchain/system at company during 2023 summer, if you are interested in working with me, please drop me an email.
+- *2024.07*: 🎉🎉 Moderator has been accepted by ACM CCS 2024!
 - *2023.03*: 🎉🎉 Welcome to my [new homepage](https://whilebug.github.io)!
 - *2022.09*: 🎉🎉 Start to pursue a master degree in Tsinghua University!
 - *2022.06*: 🎉🎉 Graduate from Sichuan University with excellent graduate honor and excellent graduate thesis!
