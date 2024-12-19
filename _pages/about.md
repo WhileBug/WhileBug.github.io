@@ -25,8 +25,9 @@ My research interest includes distributed system, blockchain, AI security/privac
 
 
 # 🔥 News
+- *2024.10*: 🎉🎉 Moderator has been awarded with **CCS Distinguished Paper**, congrats and thanks to all co-authors!
 - *2024.07*: 🎉🎉 Moderator has been accepted by ACM CCS 2024!
-- *2023.03*: 🎉🎉 Welcome to my [new homepage](https://whilebug.github.io)!
+- *2023.03*: Welcome to my [new homepage](https://whilebug.github.io)!
 - *2022.09*: 🎉🎉 Start to pursue a master degree in Tsinghua University!
 - *2022.06*: 🎉🎉 Graduate from Sichuan University with excellent graduate honor and excellent graduate thesis!
 - *2022.06*: 🎉🎉 Finish research internship in MSRA with MSRA Star of Tomorrow Award!
